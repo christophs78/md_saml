@@ -1,5 +1,5 @@
 {
-	"name": "mediadreams/md_saml",
+	"name": "christophs78/md_saml",
 	"description": "SSO frontend or backend login with SAML authentication.",
 	"license": "GPL-2.0-or-later",
 	"type": "typo3-cms-extension",
